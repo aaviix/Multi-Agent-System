@@ -114,7 +114,7 @@ The **Multi-Agents AI System from Scratch** is a Python-based application levera
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/aaviix/Multi-Agents-System.git
+   git clone https://github.com/aaviix/Multi-Agent-System.git
    cd Multi-Agents-System-from-Scratch
    ```
 2. **Create a Virtual Environment**
